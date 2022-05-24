@@ -1,0 +1,4 @@
+App\Entity\CharOccurence:
+    book_{1..100}:
+        top_char: <sentence(1)>
+        occurence_number: <numberBetween(0, 5)>
